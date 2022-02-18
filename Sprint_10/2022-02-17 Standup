@@ -1,0 +1,14 @@
+Wesley
+	- worked on running linphone test code on android phone through asterisk for a simple text message.
+    - had an issue with incorrect syntax for the message sendto information yesterday. Still scrubbing through linphone.
+
+William
+    - Attempted to implement the linphone texting code on mac for iOS and ran into some wierd errors. still troubleshooting.
+
+Andriiana
+    - Found the solution to the phone number issue with the linphone code from yesterday.
+    - sip;number@110.10.1002.123 is the correct syntax for the bug.
+    - worked with the drawer navigation for react native.
+
+Dustin
+    - rewrote a couple different classes in linphone code that we will need for the app. i.e the messages class and the advanced messages classes for group chats.
