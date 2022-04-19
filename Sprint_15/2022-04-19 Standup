@@ -1,0 +1,16 @@
+Wesley
+	- 
+
+William
+	- Met with Andriiana and Dustin to discuss possible poster design ideas.
+    - Will finish the Poster layout for the expo day tonight.
+
+Andriiana
+    - Met with Dustin to figure out how to integrate the Java / Kotlin Code into the react native code.
+    - Created a game plan for combining the Two code sources inside Android.
+    - Instructed Dustin on How to setup and run the React Native code through Metro.
+
+Dustin
+    - Met with Andriiana to figure out how to integrate the Java / Kotlin Code into the react native code.
+    - Started to setup the Metro React Native environment to run the react code.
+    - Will start converting the Kotlin code to run through the react environment.
