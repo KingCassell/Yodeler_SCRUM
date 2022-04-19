@@ -1,0 +1,16 @@
+Wesley
+	- solved the error from the pre-created messages.
+	- started working on integrating the calling features by integrating the tutorial code.
+
+William
+    - working on the project report and the slides for the presentation.
+    - also working on the poster for the expo.
+
+Andriiana
+    - found the problem causing the React native code to not compile.
+    - the react code now generates the android code and executes the UI.
+    - SAVED THE WORLD!!!!!
+
+Dustin
+    - finished the group chat class in kotlin except the image messaging feature.
+    - the code would be much more efficient with a Message interface that would be implemented by both basic chat and group chat. plans to create that interface to fix some of the bugs.
